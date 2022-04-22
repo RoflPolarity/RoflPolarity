@@ -20,12 +20,13 @@
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-<img src="https://img.shields.io/badge/IntelliJIDEA-007ACC?style=for-the-badge&logo=IntelliJIDEA&logoColor=black" alt="vs code" />
+<img src="https://img.shields.io/badge/IntelliJ IDEA-007ACC?style=for-the-badge&logo=IntelliJIDEA&logoColor=black" alt="vs code" />
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=&logoColor=red" alt="Hibernate"/>
 <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=Spring&logoColor=green" alt="java" />
 <img src="https://img.shields.io/badge/Gradle-black?style=for-the-badge&logo=Gradle&logoColor=white" alt="java" />
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=red" alt="java" />
+ <img src="https://img.shields.io/badge/Hardware-black?style=for-the-badge&logo=Hardware&logoColor=white" alt="java" />
 </div>  
 
 ### 📊 Github status: 
