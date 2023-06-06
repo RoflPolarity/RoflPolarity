@@ -32,7 +32,6 @@
 ### 📊 Github status: 
 
 <div align="center">
-  <a href="https://github.com/Unti1">
     <img src="https://github-readme-stats.vercel.app/api?username=RoflPolarity&show_icons=true&hide=stars&hide_border=true" alt="Artem's GitHub Stats" />
   </a>
   <a href="https://github.com/RoflPolarity">
