@@ -38,6 +38,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoflPolarity&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Artem's Language Stats" />
   </a>
 <div>
-
-### ✏️ About me:
-### 🎓 I’m currently learning ..
