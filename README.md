@@ -8,7 +8,7 @@
 <a href="https://t.me/RoflPolarity">
 <img src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram" />
 </a>
- <a href="https://vk.com/ignis25">
+ <a href="https://vk.com/roflpolarity">
 <img src="https://img.shields.io/badge/ВКОНТАКТЕ-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk" />
 </a>
 </div>  
